@@ -8,8 +8,6 @@ import (
 	"github.com/jinzhu/gorm"
 	"github.com/robfig/cron"
 	"github.com/shirou/gopsutil/load"
-	"github.com/v2fly/v2ray-core/proxy/trojan"
-	"github.com/v2fly/v2ray-core/proxy/vless"
 	"github.com/v2fly/v2ray-core/v4/common/protocol"
 	"github.com/v2fly/v2ray-core/v4/common/serial"
 	"github.com/v2fly/v2ray-core/v4/proxy/trojan"
